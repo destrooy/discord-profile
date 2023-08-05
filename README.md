@@ -1,2 +1,3 @@
-# discord-profile
-stronka z avatarem discord i innym
+# Discord Profile Website
+
+- Poedytuj wszystko w HTML, i innych plikach. Miłej zabawy!
